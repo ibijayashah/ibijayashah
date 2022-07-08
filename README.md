@@ -1,9 +1,3 @@
-<h3 align="center"><strong> Hi 👋, I'm Bijaya Shah </strong> </h3>
- 
-- 🔭 I’m currently working on **Multiple MERN Project**
-- 👨‍💻 Know More about me at [bijayashah.com.np](bijayashah.com.np)
-- 📫 How to reach me **bijayshah551@gmail.com**
-- 📄 Know about my experiences [bijayashah.com.np/cv](bijayashah.com.np/cv)
-
- 
- 
+<p align="center">
+ <img src="https://readme-typing-svg.herokuapp.com?duration=1000&color=F7F7F7&background=000000&center=true&vCenter=true&multiline=true&width=500&height=100&lines=I+am+BIJAYA+SHAH;Passionate+MERN+Developer;From+Kathmandu+Nepal"> 
+</p>
